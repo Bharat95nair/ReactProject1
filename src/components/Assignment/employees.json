@@ -1,0 +1,38 @@
+[
+  {
+    "eId": 1,
+    "name": "Alice",
+    "sal": 50000,
+    "gender": "Female"
+  },
+  {
+    "eId": 2,
+    "name": "Bob",
+    "sal": 45000,
+    "gender": "Male"
+  },
+  {
+    "eId": 3,
+    "name": "Charlie",
+    "sal": 60000,
+    "gender": "Male"
+  },
+  {
+    "eId": 4,
+    "name": "Diana",
+    "sal": 52000,
+    "gender": "Female"
+  },
+  {
+    "eId": 5,
+    "name": "Ethan",
+    "sal": 48000,
+    "gender": "Male"
+  },
+  {
+    "eId": 6,
+    "name": "Fiona",
+    "sal": 53000,
+    "gender": "Female"
+  }
+]
